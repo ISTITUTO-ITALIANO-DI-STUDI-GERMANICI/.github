@@ -13,3 +13,9 @@ Per maggiori informazioni, consultate la documentazione completa dei vari proget
 ## DiScEPT - Digital Scholarly Editions Platform and aligned Translations
 
   - [DiScEPT](https://github.com/ISTITUTO-ITALIANO-DI-STUDI-GERMANICI/DiScEPT) <img align="right" src="https://img.shields.io/github/stars/ISTITUTO-ITALIANO-DI-STUDI-GERMANICI/DiScEPT?label=%E2%AD%90%EF%B8%8F&logo=github" alt="GitHub stars"><img align="right" src="https://img.shields.io/github/issues/ISTITUTO-ITALIANO-DI-STUDI-GERMANICI/DiScEPT" alt="GitHub issues"><br>Questa è il repository per il progetto attualmente in corso per costruire una piattaforma per le edizioni scientifiche digitali e traduzioni allineate.  
+
+## Digitalizzazione «Arbeiter-Illustrierte-Zeitung» (AIZ)
+<br>Un progetto in corso che vede la collaborazioni con Fondazione Gramsci onlus, Fondazione Giangiacomo Feltrinelli per la digitalizzazione della rivista comunista della Repubblica di Weimar, fondata da Willi Münzenberg nel 1921, rivolta alle lotte operaie
+
+## Digitisation of the cultural heritage of minority communities for equity and renewed engagement
+<br>l progetto DIGICHer promuove la digitalizzazione inclusiva del patrimonio culturale delle minoranze, affrontando sfide di rappresentazione, equità e partecipazione diretta.
