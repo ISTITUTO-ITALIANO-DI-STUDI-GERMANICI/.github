@@ -2,11 +2,11 @@
 
 Benvenuti e benvenute sulla pagina GitHub dell'**IISG - Istituto Italiano di Studi Germanici**.
 
-Qui troverete risorse, documentazione e codice relativi alla digitalizzazione del nostro patrimonio culturale, nonché strumenti di Digital Humanities e le tematiche connesse che stiamo sviluppando.
+Qui troverete risorse, documentazione e codice relativi ai **progetti in ambiente digitale** e di **digitalizzazione del nostro patrimonio culturale**, nonché strumenti di Digital Humanities e le tematiche connesse che stiamo sviluppando.
 
-**Il nostro obiettivo** è creare risorse e strumenti accessibili, aperti e orientati alla condivisione, con un forte impegno per l'interoperabilità e la collaborazione. Siamo convinti che un approccio aperto e condiviso possa ampliare le possibilità di ricerca e valorizzazione dei dati della cultura e della ricerca. 
+Il nostro **obiettivo** è creare risorse e strumenti accessibili, aperti e orientati alla condivisione, con un forte impegno per l'interoperabilità e la collaborazione. Siamo convinti che un approccio aperto e condiviso possa ampliare le possibilità di ricerca e valorizzazione dei dati della cultura e della ricerca. 
 
-Il repository è pensato per condividere le metodologie utilizzate, promuovere la collaborazione e supportare la comunità accademica e di chi preserva il patrimonio culturale. 
+I repository è pensato per condividere le metodologie utilizzate, promuovere la collaborazione e supportare la comunità accademica e di chi preserva il patrimonio culturale. 
 
 Per maggiori informazioni, consultate la documentazione completa dei vari progetti.
 
